@@ -1,0 +1,1 @@
+dontaudit vold proc_touchpanel:dir { open read };

@@ -1,0 +1,2 @@
+# examine battery state
+r_dir_file(system_server, sysfs_usb_supply);
